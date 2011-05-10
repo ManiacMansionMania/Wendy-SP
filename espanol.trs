@@ -78,9 +78,9 @@ a_button_talk_to 8 804 805 Cc
 a_button_talk_to 3 678 679 Aa
 a_button_pull 6 792 793 Yy
 a_button_pull 5 690 691 Dd
-font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  3  3  3  3  0
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 
-font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 13 13 13 13 13 13 14
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14
 
 Das ist schon zu.
 
