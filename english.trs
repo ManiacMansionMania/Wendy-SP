@@ -1,0 +1,1302 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Gehe zu %s
+Go to %s
+Schau an %s
+Look at %s
+Rede mit %s
+Talk to %s
+Gib !s an %s
+Give !s to %s
+Gib %s
+Give %s
+Nimm %s
+Take %s
+Benutze !s mit %s
+Use !s with %s
+Benutze %s
+Use %s
+Öffne %s
+Open %s
+Schließe %s
+Close %s
+Drücke %s
+Push %s
+Ziehe %s
+Pull %s
+Wechsle zu %s
+Switch to %s
+!s
+!s
+%s
+%s
+%d. 
+%d.
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+YyNn
+a_button_give 5 802 803 Dd
+a_button_give 0 1 2 Qq
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 7 8 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 13 14 Ee
+a_button_open 3 790 791 Aa
+a_button_open 3 3 4 Aa
+a_button_look_at 0 788 789 Qq
+a_button_look_at 4 9 10 Ss
+a_button_push 7 798 799 Xx
+a_button_push 5 15 28 Dd
+a_button_close 4 796 797 Ss
+a_button_close 6 5 6 Yy
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 7 11 12 Xx
+a_button_pull 6 792 793 Yy
+a_button_pull 8 29 30 Cc
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  3  3  3  3  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 13 13 13 13 13 13 14
+
+Das ist schon zu.
+
+Das ist schon offen.
+
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+%s%c
+error: Talk view isn't assigned!
+
+%%%dc
+
+MMM_GO
+
+scrnshot.bmp
+
+%d.
+%d.
+2. Stock
+
+1. Stock
+
+Erdgeschoss
+
+Keller
+
+Dafür braucht man einen Spezialschlüssel
+
+Seltsam, der Knopf klemmt
+
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+*ERROR*: Konnte %s nicht zu spielbaren Chars hinzufügen.
+
+Ist bereits vorhanden.
+
+Bereits drei spielbare Chars vorhanden.
+
+*ERROR*: Hier bin ich doch :)
+
+*ERROR*: Ne, %s ist nicht in der Liste!
+
+*ERROR*: Kann %s jetzt nicht entfernen.
+
+*ERROR*: Kann %s nicht entfernen, da er nicht hinzugefügt wurde.
+
+Objekt.ID=%d
+
+Hotspot.ID=%d
+
+Besser nicht.
+
+Tja, scheint nicht zu klappen.
+
+Toll.
+
+Da tut sich nichts.
+
+Da bewegt sich nichts.
+
+Es scheint nicht aufzugehen.
+
+Selbstgespräche zu führen kann Schizophrenie erzeugen. Also führe ich keine.
+
+Das klappt so nicht.
+
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+
+Wozu?
+
+Es bewegt sich nicht.
+
+Das lässt sich nicht öffnen.
+
+Das lässt sich nicht schließen.
+
+Das ist jemand anderes.
+
+Zu schwer.
+
+Das bringt nichts.
+
+Schließen? Gehts noch?
+
+Öffnen? Gehts noch?
+
+Benutzen? Gehts noch?
+
+Hallo Razor.
+
+Ich finde, das war Verschwendung.
+
+Nein, ich will niemanden anrufen.
+
+Die Fernbedienung des Fernsehers.
+
+Ohne sie würde der Fernseher nicht funktionieren.
+
+Gemütlich.
+
+Ein Blatt Papier. Weiß, sauber, rein.
+
+Das Telefonbuch!
+
+Sehr seltsame Handlung, ...
+
+... aber sehr viele Protagonisten.
+
+Text
+
+Wie kann ich Ihnen dienen?
+
+Speichern
+
+Laden
+
+Spielen
+
+Beenden
+
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+
+Wählen Sie ein Spiel zum Laden
+
+Abbruch
+
+Name für das Spiel
+
+OK
+
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+
+Dave
+
+Syd
+
+Michael
+
+Wendy
+
+Bernard
+
+Razor
+
+Jeff
+
+Dr. Fred
+
+Nurse Edna
+
+Weird Ed
+
+Meteor
+
+Green Tentacle
+
+Purple Tentacle
+
+Mark Eteer
+
+Wink Smiley
+
+Police
+
+Sandy
+
+Marcy
+
+Britney
+
+Mandy
+
+Andy
+
+Koslowski
+
+Radiosprecher
+
+Postbote
+
+Fernbedienung
+
+Kissen
+
+Papier
+
+Telefonbuch
+
+dummy
+
+Das hab ich kostenlos beim Anmelden im Buchclub bekommen.
+
+Nein, da hängt es ganz gut.
+
+Anschauen ja, aber nicht benutzen.
+
+Wie bitte?
+
+Das hängt da ganz gut.
+
+Mein Bett.
+
+Ich schreibe Bücher aber schleppe keine Betten.
+
+Doch nicht um die Uhrzeit.
+
+Da ist eine Matratze unter der Bettdecke.
+
+Das kann ich nicht wegziehen.
+
+Das kann ich nicht wegschieben.
+
+Ich hab einen tollen Blick auf's Meer.
+
+Boar! Jeff reitet gerade eine Monsterwelle ab!
+
+Das Fenster ist festgemacht, das lässt sich nicht nehmen.
+
+Das will ich nicht öffnen.
+
+Mein Nachtkästchen.
+
+Das steht da ganz gut.
+
+Und mit was?
+
+Meine Auszeichnungen für Manuskripte.
+
+Aus einer verschlossenen Vitrine?
+
+Das sind meine Auszeichnungen.
+
+Die Auszeichnungen lassen sich nicht öffnen.
+
+Die Auszeichnungen lassen sich nicht schließen.
+
+Die sind in der Virtine gut aufgehoben.
+
+Meine Nachttischlampe.
+
+Nein.
+
+Die steht da ganz gut.
+
+Mein Lebenswerk.
+
+Er wurde mir überreicht...
+
+\"Für die beste Novelle in der Altersgruppe 12-16\".
+
+Hast du eine Ahnung, wie ich den erst hier hoch bekommen hab?
+
+Gerade deswegen habe ich doch den Aufzug eingebaut.
+
+Der steht da ganz gut.
+
+Das sind die Manuskripte, für die ich Auszeichnungen bekommen habe.
+
+Dem grünen verdanke ich die goldene Büroklammer.
+
+Es heißt \"Nachts, wenn die Tomate blüht\".
+
+Dem roten gebührt der Riesenpokal unten
+
+Dieses Buch heißt \"Nowemberstille\".
+
+In einer verschlossenen Vitrine?
+
+No hotspot
+
+Tür>v
+
+Bett
+
+Fenster
+
+kleinere Preise
+
+Nachtschränkchen>v
+
+Lampe
+
+Pokal
+
+Bücher
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Nachtkastentür
+
+Poster
+
+Von hier aus hat man einen perfekten Blick auf den Hinterhof der Nachbarn.
+
+Das Fenster ist im Rahmen festgemacht. Ich kann es nicht nehmen.
+
+Öffnen vielleicht?
+
+Die Klimaanlage ist an.
+
+Das Fenster ist bereits geschlossen.
+
+Die steuern den Aufzug.
+
+Ich könnte die Kontrolltafel abnehmen. Aber dazu fehlt mir das Werkzeug.
+
+Die Kontrolltafel ist bereits drauf.
+
+Die Knöpfe drückt man.
+
+Das ist der Rufknopf für den Aufzug.
+
+Das ist der Aufzug.
+
+Dazu sitzt die Tür zu fest im Rahmen.
+
+Die Tür ist zu.
+
+Die ist doch schon zu.
+
+Und wie?
+
+Ein kleiner Tisch.
+
+Da drauf kann ich höchstens was belegen.
+
+Wie kann ich einen Tisch öffnen?
+
+Wie kann ich einen Tisch schließen?
+
+Rufknopf>s
+
+Knöpfe>u
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Fahrstuhl
+
+Tisch
+
+Eine Kerze aus Wachs.
+
+Nichts zu machen, die Kerze steckt fest.
+
+Ohne Feuerzeug oder Zündhülzer?
+
+Die bekomme ich nicht raus.
+
+Mein Kerzenständer.
+
+Der steht doch da ganz gut.
+
+Da stecken schon Kerzen drin.
+
+Ich lass die Kerzen wo sie sind.
+
+Damit er umfällt?
+
+Ein Stuhl.
+
+Vielleicht sollte ich ihn einfach nehmen.
+
+Will ich nicht.
+
+Warum?
+
+Fred Edisons \"Grüns Essen\".
+
+Da hängt es ganz gut.
+
+Es zeigt eine Schale mit Obst.
+
+Dahinter ist nichts, was ich dir zeigen möchte.
+
+Das hängt schon an der Wand.
+
+Das ist mein Esstisch.
+
+Der ist mir zu schwer.
+
+Wenn ich was zu essen hätte.
+
+Stuhl
+
+Kerzenständer
+
+Bild
+
+Tür
+
+linke Kerze
+
+mittlere Kerze
+
+rechte Kerze
+
+Ein Haken.
+
+Wie stellst du dir das vor?
+
+Ich könnte was daran aufhängen.
+
+Ist schon zu.
+
+Warum sollte ich sie Drücken?
+
+Warum sollte ich sie Ziehen?
+
+Ein Glas Gurken.
+
+Ich sollte mal wieder einkaufen gehen.
+
+Brauche ich momentan nicht.
+
+Brauche ich nicht.
+
+Dazu müsste ich sie erst einmal nehmen.
+
+Eine Packung Nudeln.
+
+Ein Putzlappen.
+
+In meiner Küche ist noch ein relativ gut erhaltener, aber bald wird der hier zum Einsatz kommen.
+
+Dazu müsste ich ihn erst einmal nehmen.
+
+Warum sollte ich ihn Drücken?
+
+Warum sollte ich ihn Ziehen?
+
+Mit diesem Schrubber muss ich ab und zu mein Haus säubern.
+
+Um damit was zu schrubben?
+
+Das würde ihn nur zerstören.
+
+Da gibt es nichts zu zu machen.
+
+Haken
+
+Telefon
+
+Gurkenglas
+
+Nudeln
+
+Putzlappen
+
+Schrubber
+
+Klares kühles Wasser.
+
+Schmeckt lecker.
+
+Und wie genau stellst du dir das vor?
+
+Dann werden meine Hände naß.
+
+Ein leerer Schrank.
+
+Leider nein. Das geht nicht.
+
+Und was soll ich reinstellen?
+
+Nochmal öffnen?
+
+Ein offener Kühlschrank.
+
+Ich habe nichts zum reinstellen.
+
+Der ist schon auf.
+
+Ein offenes Gefrierfach.
+
+Das ist mir zu schwer.
+
+Das ist schon auf.
+
+Damit es umfällt?
+
+Meine Mikrowelle. Ronvile Standardmodell. A413
+
+Und wo soll ich sie dann hinstellen?
+
+Gib mir was und ich leg's rein.
+
+Sie ist schon offen.
+
+Die steht da richtig.
+
+Die muss nicht versetzt werden.
+
+Eine offene Schublade.
+
+Die ist mit Teleskopschienen festgemacht.
+
+Ich kann was reinlegen, wenn du das meinst.
+
+Noch weiter kann ich sie nicht rausziehen.
+
+Ein leerer Hängeschrank.
+
+Die ganze Zeile ist mir zu schwer.
+
+Soll ich was reinlegen? Dann sag's mir.
+
+Nochmal?
+
+Ein Schrank.
+
+Nöö.
+
+Der ist doch schon zu.
+
+Meine Mikrowelle.
+
+Mein Kühlschrank.
+
+Mein Gefrierfach.
+
+Ein Hängeschrank.
+
+Mein Herd.
+
+Vielleicht später.
+
+Mein Geschirrspüler. Immer wenn ich keine Lust zum Spülen habe, benutze ich ihn.
+
+Und das ist ziemlich oft.
+
+Ich kann die Straße vor unserem Haus sehen.
+
+Dass lass ich zu, sonst zieht es.
+
+Das ist doch schon zu.
+
+Ein Schublade.
+
+Mein Waschbecken.
+
+Ich habe nichts zum abspülen.
+
+???
+
+Dass lass ich schön bleiben.
+
+Das ist da genau richtig, wo es ist.
+
+Ein Wasserhahnen
+
+Der ist festgemacht.
+
+Die 7 besten italienischen Gerichte.
+
+Es ist an der Wand befestigt.
+
+Für eine Portion Spagetti benötigt man...
+
+Keine Reaktion.
+
+Es knarrt.
+
+Schrank>o
+
+Mikrowelle>o
+
+Kühlschrank>o
+
+Hängeschrank>o
+
+Herd
+
+Geschirrspüler
+
+Schublade>o
+
+Waschbecken
+
+Wasserhahn>v
+
+Rezepttafel
+
+Gefrierfach>o
+
+Schrank>c
+
+Kühlschrank>c
+
+Mikrowelle>c
+
+Schublade>c
+
+Wasser
+
+Hängeschrank>c
+
+Gefrierfach>c
+
+Ich sollte wohl klingeln.
+
+Die Tür zum Badezimmer.
+
+Ah, ja.
+
+Vielleicht sollte ich veruschen sie zu öffnen.
+
+Das Badezimmer ist abgeschlossen.
+
+Die Tür ist doch schon zu.
+
+Ja klar.
+
+Wie wär's mit Drucken.
+
+Tür>o
+
+Haustür
+
+Vielleicht sollte ich sie erst nehmen.
+
+Da lässt nur das Batteriefach öffnen.
+
+Das Batteriefach ist schon zu.
+
+Dann fällt sie herunter.
+
+Ich will mich jetzt nicht setzen.
+
+Der Reißverschluss klemmt.
+
+Der Reißverschluss ist schon zu.
+
+Das sitzt schon richtig.
+
+Eine Porzellanvase.
+
+Ich habe einen Cent reingeschmissen.
+
+Sie hat bereits eine Öffnung.
+
+Das macht keinen Sinn.
+
+Dann fällt sie runter - also nein.
+
+Ein kleiner Tisch. Auf ihm steht meistens eine Vase.
+
+Warum sollte ich?
+
+Der Fernseher ist aus.
+
+Es wäre besser, wenn ich eine Fernbedienung hätte.
+
+Der Fernseher funktioniert, also lasse ich ihn zu.
+
+Der ist schon zu.
+
+Das passt schon so.
+
+Ein Bild von einer wunderschönen Karibikinsel.
+
+Diese Bild zeigt einen Strand auf einer Insel.
+
+Gaanz klar.
+
+Es klappert.
+
+Das Bild fühlt sich geschmeidig an.
+
+Und da ich momentan keine davon brauche, lass ich es.
+
+Der Teddy ist sauber vernäht.
+
+Dieses Foto hat Michael am Probs Mountain geschossen.
+
+Seine Kamera ist echt spitze.
+
+Das hängt da gut.
+
+Irgendiwe mag ich das Bild...
+
+... und natürlich Michael.
+
+Ich könnte es aus dem Rahmen nehmen.
+
+Soll ich es einpacken?
+
+Das Foto lässt sich nicht ziehen.
+
+Das Foto lässt sich nicht drücken.
+
+Toll, die Sonne scheint.
+
+Und mein Nachbar macht mal wieder FKK-Sonnenbaden.
+
+Das ist im Rahmen befestigt und lässt sich folglich nicht nehmen.
+
+Will ich jetzt nicht.
+
+Das Holzfenster knarrt.
+
+Eine 110 Volt-Steckdose.
+
+Die ist in der Wand festgemacht.
+
+Ja ne, is' klar.
+
+Nur mit einem Schraubendreher.
+
+Ich könnte vielleicht eine Kindersicherung einbauen, aber hier wohnen keine.
+
+Die sitzt fest. Gut.
+
+Steckdose
+
+Fernseher
+
+Sofa
+
+linkes Sitzkissen
+
+rechtes Sitzkissen
+
+Vase
+
+Ständer
+
+Das ist der Lieblingsteddy von Marcy.
+
+Ein Stapel mit Papier.
+
+Ich hab doch schon eins.
+
+Es ist doch schon eins in die Schreibmaschine eingespannt.
+
+Die sind leer.
+
+Ich könnte eventuel ein Blatt NEHMEN.
+
+Ein ganz normaler Stuhl.
+
+Und was soll ich dann damit?
+
+Nein, ich habe zu tun.
+
+UDer Stuhl besitzt keinerleit Geheimfach, dass ich im moment öffen müsste.
+
+Der lässt sich nicht schließen.
+
+Solange ich mich nicht draufsetze, muss ich ihn nicht bewegen.
+
+Wir beide haben schon viel durchgemacht.
+
+Für sie habe ich extra dieses Zimmer neu eingerichtet.
+
+OK, ich nehme das Blatt Papier wieder heraus.
+
+Da ist kein Papier in der Maschine.
+
+Ich habe keine Idee, was ich schreiben soll.
+
+OK, ich spanne das Blatt in die Schreibmaschine ein.
+
+Viele Geschichten, die ich schreibe handeln vom Meer.
+
+Soll ich es aus der Wand rausreißen.
+
+Ich lass es doch lieber zu.
+
+Besser nicht, von da kommt immer ein starker Wind.
+
+Es ist doch schon zu.
+
+Das Holzfenster gibt nicht nach.
+
+In der einen Hälte sind Farbbänder, Bleistifte und Papier.
+
+In der anderen angefangene und fertige Manuskripte.
+
+Der ist mir etwas zu schwer.
+
+Klopf, klopf.
+
+Bloß nicht, sonst werd ich noch unter einer Welle Farbbändern, Bleistiften und Papier begraben.
+
+Wenn mir die Ideen ausgehen, kann ich mich hier immer wieder neu inspirieren lassen.
+
+Sonst gehts dir gut, wie?.
+
+Ich hab zu tun.
+
+Die Bücher sind schon alle zu.
+
+Ich will jetzt kein Buch lesen.
+
+Nichts ist passiert.
+
+Schrank
+
+Bücherregal
+
+Schreibmaschinenpapier
+
+Schreibmaschine
+
+Da steckt viel Geld drin.
+
+Erstens sind meine Taschen zu klein und zweitens wäre ich Jahre beschäftigt.
+
+Du meinst doch nicht etwa ALLE?.
+
+Die sind bereits alle verschlossen.
+
+Ist mit zu mühselig.
+
+Wendeltreppe
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Uhhh, besser nicht.
+
+Ich hab' Höhenangst.
+
+Hat ganz schön viel gekostet.
+
+Du meinst doch nicht etwa ALLE?
+
+Noch mehr Bücher
+
+Fortsetzung der Wendeltreppe
+
+Bibliothek
+
+Das Telefonbuch.
+
+Sehr seltsame Handlung...
+
+Sehr gut.
+
+Ich nehm's mal mit.
+
+Momentan nicht.
+
+Das liegt da ganz gut.
+
+Mein Telefon.
+
+Ich kenne keine Nummern auswendig.
+
+Wie wäre es mit abheben.
+
+Passt doch so.
+
+Nö.
+
+Mein Telefonhörer.
+
+Ein kleiner Tisch. Auf ihm steht ein Telefon.
+
+Warum willst du das?
+
+Dumm di dumm...
+
+Wieso?
+
+Das braucht es jetzt nicht.
+
+Mein neuer Terminkalender.
+
+Ich habe noch nichts eingetragen.
+
+Du weißt schon, was du tust, ja?
+
+Und zu welchem Zweck?.
+
+Das bin ich.
+
+Der Spiegel hängt da gut.
+
+Ich stehe bereits davor.
+
+Ein Spiegel zum öffnen hängt im Bad. Dieser hier ist flach an der Wand festgemacht.
+
+Da gibt es nichts zu schließen.
+
+Festgeklebt an der Wand, hängt der Spiegel aus Glas geformt...
+
+Ein nettes Bild - hängt an der Wand.
+
+Warum sollte ich es nehmen?
+
+Es zeigt einen Ausschnitt aus Monkey Island.
+
+Dahinter ist nichts.
+
+Nicht schon wieder drücken.
+
+Nicht schon wieder ziehen.
+
+Spiegel
+
+Höhrer
+
+Terminkalender
+
+\"Wendy Wells\"
+
+Wenn du meinst.
+
+Eine Klingel.
+
+So nicht.
+
+Ich klingel doch nicht bei mir zuhause!
+
+Na denn.
+
+Damit ich einen Stromschalg bekomme?
+
+Die ist schon zu.
+
+Vielleicht drücken?
+
+'Willkommen'
+
+Außer Staub liegt da nichts drunter.
+
+Nehmen bringt hier nichts.
+
+Eher nehmen.
+
+Der Abtreter ist noch sauber. Er muss weder geschlossen, noch repariert werden.
+
+Der liegt da gut.
+
+Ich kann das Bad sehen.
+
+Soll ich es aus dem Rahmen rausreißen?
+
+Es lässt sich nur von innen öffnen.
+
+Es lässt sich nur von innen schließen.
+
+Ich kann das Wohnzimmer sehen.
+
+Fußabtreter
+
+Briefkasten>o
+
+Zeiger>s
+
+Briefkasten>c
+
+Klingel
+
+Hotspot 1
+
+Hotspot 2
+
+Hotspot 3
+
+_tv_44_view_ 81
+
+... sagte er, drücken hilft da nicht, er muss ziehen!
+
+Wir sehen uns Morgen.
+
+Start
+
+[]~
+
+Wendy-Starterpack]
+
+Rulaman (original von BlueGryphon)
+
+]BETA-Tester]
+
+Rulaman
+
+]Graphiken]
+
+BlueGryphoon
+
+und Rulaman
+
+Postbote Rayman
+
+]Übersetzung für AGS 3.0]
+
+]AdventureGameStudio 3.0]
+
+Chris Jones
+
+]Credit-Modul:]
+
+SSH
+
+]Diese Episode:~
+
+<Autor>
+
+ [Idee:]
+
+] [zusätzliche Grafiken:]
+
+] [zusätzliches Skripting:]
+
+] [gewidmet:]
+
+allen Adventure-Freunden
+
+]~
+
+Meine kleine Dusche.
+
+Haha, nette Idee.
+
+Ich bin sauber genug.
+
+Jetzt nicht.
+
+Dazu fehlt mir die Kraft.
+
+Mein kleiner Alibert.
+
+Da sind nur Schminksachen und andere \"Frauensachen\" drin.
+
+Tampons und Nagellack.
+
+Mein Badezimmerfenster. Zum glück milchig.
+
+Das bleibt schön zu.
+
+Der Drücker um die Kloschüssel saber zu halten.
+
+Ich entferne die Abdeckung nur, wenn es einen Grund dazu gibt.
+
+Die Abdeckung ist schon drauf.
+
+Die Klochüssel. Ideal geformt für kleine und große 'Geschäfte'.
+
+Wenn sie kaputt geht, baue ich sie gerne aus.
+
+Ich war gerade.
+
+Ein Badezimmerspiegel.
+
+Der würde mir sicherlich runter fallen. Also nein.
+
+Ich sehe heute wieder toll aus.
+
+Da gibt es weder was zu öffnen, noch zu schließen.
+
+Manipulationen bringen hier nichts.
+
+Ein Wasserhahnen nit zwei Schraubelementen.
+
+Ohne passendes Werkzeug nicht.
+
+Später.
+
+Äh - nein.
+
+Hnngh.
+
+Das geht nicht.
+
+So - fertig. Meine Hände sind jetzt wieder sauber.
+
+Der Abfluss ist nicht verstopft und muss daher nicht geöffnet werden.
+
+Da würde bei laufenden Wasser das Waschbecken überlaufen.
+
+Das sitzt so fest an der Wand, dass sich da nichts bewegt.
+
+Der Abfluß.
+
+Dann läuft das Wasser aus dem Waschbecken ja auf den Boden.
+
+Und wie soll ich dass?
+
+Dazu brauche ich Werkzeug.
+
+Der ist doch schon angeschraubt.
+
+Der sitzt bombenfest.
+
+Ui, eine Macke im Fußboden.
+
+Wie stellst du dir dass denn vor?
+
+Ich bräuchte eine Reparaturflüssigkeit.
+
+Ich könnte den Fußboden aufreißen, ...
+
+Nur mit einer passenden Reparaturflüssigkeit.
+
+So klappt das nicht.
+
+Klodrücker
+
+Kloschüssel
+
+Wasserhähnen
+
+Abfluß
+
+Dusche
+
+Alibert
+
+BlueGryphon (Original)
+
+Rulaman (neue Version)
+
+---
+
