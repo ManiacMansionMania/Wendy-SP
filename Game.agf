@@ -969,7 +969,7 @@
             <Height>24</Height>
             <Width>30</Width>
             <Left>290</Left>
-            <Top>9</Top>
+            <Top>10</Top>
             <ZOrder>11</ZOrder>
             <ID>12</ID>
             <Name>cc1</Name>
@@ -13802,6 +13802,24 @@ player: Seltsam, der Knopf klemmt
         <Author>khrismuc</Author>
         <Version>v1.0</Version>
         <Key>994508335</Key>
+        <IsHeader>False</IsHeader>
+      </Script>
+      <Script>
+        <FileName>Doors.ash</FileName>
+        <Name />
+        <Description />
+        <Author />
+        <Version />
+        <Key>12208054</Key>
+        <IsHeader>True</IsHeader>
+      </Script>
+      <Script>
+        <FileName>Doors.asc</FileName>
+        <Name />
+        <Description />
+        <Author />
+        <Version />
+        <Key>12208054</Key>
         <IsHeader>False</IsHeader>
       </Script>
       <Script>
