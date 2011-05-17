@@ -24,7 +24,7 @@ enum eDirection
 	/*! lässt den Charakter nach rechts schauen */
 	eDirRight = 3, 
 	/*! only for GoToCharacter */
-	eDirAuto  = 4, 
+	eDirAuto  = 4, // $AUTOCOMPLETEIGNORE$
 };
 
 //! noch ungenutzt
