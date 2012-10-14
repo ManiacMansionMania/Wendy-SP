@@ -1283,11 +1283,11 @@
             <ShowBorder>False</ShowBorder>
             <TextAlignment>Left</TextAlignment>
             <TextColor>64581</TextColor>
-            <SelectedTextColor>64581</SelectedTextColor>
+            <SelectedTextColor>2423</SelectedTextColor>
             <SelectedBackgroundColor>64581</SelectedBackgroundColor>
             <Font>0</Font>
             <Height>97</Height>
-            <Width>173</Width>
+            <Width>171</Width>
             <Left>8</Left>
             <Top>15</Top>
             <ZOrder>1</ZOrder>
@@ -1406,11 +1406,11 @@
             <ShowBorder>False</ShowBorder>
             <TextAlignment>Left</TextAlignment>
             <TextColor>64581</TextColor>
-            <SelectedTextColor>64581</SelectedTextColor>
+            <SelectedTextColor>2423</SelectedTextColor>
             <SelectedBackgroundColor>64581</SelectedBackgroundColor>
             <Font>0</Font>
             <Height>97</Height>
-            <Width>173</Width>
+            <Width>171</Width>
             <Left>9</Left>
             <Top>15</Top>
             <ZOrder>1</ZOrder>
@@ -1565,7 +1565,7 @@
             <Height>9</Height>
             <Width>15</Width>
             <Left>1</Left>
-            <Top>2</Top>
+            <Top>1</Top>
             <ZOrder>1</ZOrder>
             <ID>1</ID>
             <Name>gSaveTextBoxlbl</Name>
