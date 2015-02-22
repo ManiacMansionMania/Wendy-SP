@@ -8,6 +8,15 @@ enum eDoorState
 enum eDoorNum
 {
 	eDoorNumWendy, 
+  eDoorNumDiningRoom, 
+  eDoorNumKitchen, 
+  eDoorNumStoreRoom, 
+  eDoorNumOffice, 
+  eDoorNumTelephoneRoom, 
+  eDoorNumLivingRoom, 
+  eDoorNumLibrary, 
+  eDoorNumBath, 
+  eDoorNumFrontDoor, 
 };
 
 struct DoorType
