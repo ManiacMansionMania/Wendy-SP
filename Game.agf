@@ -3144,7 +3144,9 @@ run-script 2
 return
 @4  // option 4
 player: Seltsam, der Knopf klemmt
-return]]></Script>
+return
+@5  // option 5, verlassen des Dialoges ohne Fahrstuhl zu benutzen
+stop]]></Script>
             <DialogOptions>
               <DialogOption>
                 <ID>1</ID>
@@ -3167,6 +3169,12 @@ return]]></Script>
               <DialogOption>
                 <ID>4</ID>
                 <Text>Keller</Text>
+                <Show>True</Show>
+                <Say>False</Say>
+              </DialogOption>
+              <DialogOption>
+                <ID>5</ID>
+                <Text>EXIT</Text>
                 <Show>True</Show>
                 <Say>False</Say>
               </DialogOption>
@@ -14060,7 +14068,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music10.mid</SourceFileName>
@@ -14072,7 +14080,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music11.mid</SourceFileName>
@@ -14084,7 +14092,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music13.mid</SourceFileName>
@@ -14096,7 +14104,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music14.mid</SourceFileName>
@@ -14108,7 +14116,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music15.mid</SourceFileName>
@@ -14120,7 +14128,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music16.mid</SourceFileName>
@@ -14132,7 +14140,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music17.mid</SourceFileName>
@@ -14144,7 +14152,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music18.mid</SourceFileName>
@@ -14156,7 +14164,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music19.mid</SourceFileName>
@@ -14168,7 +14176,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.mid</SourceFileName>
@@ -14180,7 +14188,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music20.mid</SourceFileName>
@@ -14192,7 +14200,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.mid</SourceFileName>
@@ -14204,7 +14212,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.mid</SourceFileName>
@@ -14216,7 +14224,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.mid</SourceFileName>
@@ -14228,7 +14236,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.mid</SourceFileName>
@@ -14240,7 +14248,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.mid</SourceFileName>
@@ -14252,7 +14260,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.mid</SourceFileName>
@@ -14264,7 +14272,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mid</SourceFileName>
@@ -14276,7 +14284,7 @@ return]]></Script>
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2015-02-22 17:28:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2017-11-02 11:55:06Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
